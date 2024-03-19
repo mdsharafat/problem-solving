@@ -1,4 +1,4 @@
-package com.company.problemsolving.miscellaneous;
+package com.company.problemsolving.recursion;
 
 /*****************************************
  * @author - Md. Sharafat Hossain
